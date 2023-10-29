@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="elementos_background">#B5F1FC</color>
+    <color name="ic_launcher_background">#B5F1FC</color>
+    <color name="lugares_background">#B5F1FC</color>
+    <color name="objetos_background">#B5F1FC</color>
+    <color name="personajes_background">#B5F1FC</color>
+</resources>

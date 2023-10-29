@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="descripcion_del_elemento">elemento1</string>
+    <string name="imagen">Imagen</string>
+    <string name="titulo_del_elemento">Primer Elemento</string>
+</resources>

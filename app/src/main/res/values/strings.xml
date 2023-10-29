@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Listas</string>
+    <string name="elementos">Elementos</string>
+    <string name="lugares">Lugares</string>
+    <string name="objetos">Objetos</string>
+    <string name="personajes">Personajes</string>
+    <string name="descripcion_del_elemento">elemento1</string>
+    <string name="imagen">Imagen</string>
+    <string name="titulo_del_elemento">Primer Elemento</string>
+    <string name="volver">volver</string>
+    <string name="boton">VOLVER A LA PÁGINA PRINCIPAL</string>
+    <string name="search">Search</string>
+    <string name="nombreFichero">items.realm</string>
+</resources>
